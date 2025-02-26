@@ -1,0 +1,18 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    
+
+}
+button{
+    background-color: whitesmoke;
+    border: thin;
+    cursor: pointer;
+    height: 25px;
+    border-radius: 20px;
+    font-family: inherit;
+    
+}
+.secondary{
+    padding-top: 10px;
+}
