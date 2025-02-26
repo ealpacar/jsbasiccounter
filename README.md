@@ -1,1 +1,2 @@
-Javascript
+# Counter w/ Javascript
+"# Javascript basic counter" 
